@@ -27,4 +27,4 @@ This project was created to practice:
 - Preparing PCB designs for manufacturing
 
 ## Author
-**Yedi Benyam**  
+Yedi Benyam 
